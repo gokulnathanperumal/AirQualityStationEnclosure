@@ -52,6 +52,6 @@ This repository contains the 3D-printable enclosure designed for the [Air Qualit
 
 - `.step`: Original Fusion 360 design files for design customization.
 - `.stl`, `.3mf`: Standard file format for 3D models suitable for slicing.
-- `.gcode` folder: Final instruction files for 3D printing.
+- `.gcode` folder: Final instruction files for 3D printing (Creality Ender 3 V3 SE).
 
 Once printed and assembled, the enclosure provides protection and structure for the **Air Quality Station** components, allowing them to function effectively while keeping the design compact and user-friendly.
