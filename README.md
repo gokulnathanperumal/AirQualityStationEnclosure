@@ -34,7 +34,8 @@ This repository contains the 3D-printable enclosure designed for the [Air Qualit
     - Layer height: 0.2mm
     - Infill: 20% (recommended for balance between strength and material use)
     - Print speed: 50 mm/s
-    - Supports: Recommended for overhangs.
+    - Printing Temperature: 210°C
+    - Build Plate Temperature: 60°C
 
 2. **Assembly**:
     - Print the two enclosure parts: the top and the bottom.
@@ -46,12 +47,11 @@ This repository contains the 3D-printable enclosure designed for the [Air Qualit
 - 1x Sensirion SEN55 sensor
 - 1x Xiao ESP32C3 microcontroller
 - 3D-printed enclosure components (STL files included in this repository)
-- Screws (optional) or adhesive for securing the enclosure
 
 ## Files Included
 
-- `/STL/` folder: Contains STL files for 3D printing.
-- `/Fusion360/` folder: Original Fusion 360 design files for customization.
-- `/Images/` folder: Pictures of the completed enclosure and the 3D model.
+- `.step`: Original Fusion 360 design files for design customization.
+- `.stl, .3mf`: Standard file format for 3D models suitable for slicing.
+- `.gcode` folder: Final instruction files for 3D printing.
 
 Once printed and assembled, the enclosure provides protection and structure for the **Air Quality Station** components, allowing them to function effectively while keeping the design compact and user-friendly.
