@@ -1,7 +1,7 @@
 # <img src="https://github.com/user-attachments/assets/b2fddddf-a73c-4617-a5bf-3a34f40eaf00" width="5%" align="left"> Air Quality Station Enclosure
 
 
-A Fused Deposition Modeling (FDM) project for a 3D-printable enclosure designed for the [Air Quality Station](https://github.com/gokulnathanperumal/AirQualityStation). The enclosure houses the **Sensirion SEN55** sensor and the **Xiao ESP32C3** microcontroller, providing protection and ease of use. The design focuses on durability, accessibility, and compatibility with standard 3D printing setups.
+A **Fused Deposition Modeling (FDM)** project for a 3D-printable enclosure designed for the [Air Quality Station](https://github.com/gokulnathanperumal/AirQualityStation). The enclosure houses the **Sensirion SEN55** sensor and the **Xiao ESP32C3** microcontroller, providing protection and ease of use. The design focuses on durability, accessibility, and compatibility with standard 3D printing setups.
 
 <img src="https://github.com/user-attachments/assets/45e50dbf-6d24-4a51-ac4e-8f27af87081c" width="18%">
 <img src="https://github.com/user-attachments/assets/dfeb1623-2116-4014-959b-a8c05733dc99" width="18%">
