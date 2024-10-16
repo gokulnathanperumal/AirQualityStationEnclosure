@@ -1,5 +1,5 @@
+# <img src="https://github.com/user-attachments/assets/b2fddddf-a73c-4617-a5bf-3a34f40eaf00" width="5%" align="left"> Air Quality Station Enclosure
 
-# Air Quality Station Enclosure
 
 This repository contains the 3D-printable enclosure designed for the [Air Quality Station project](https://github.com/gokulnathanperumal/AirQualityStation). The enclosure houses the **Sensirion SEN55** sensor and the **Xiao ESP32C3** microcontroller, providing protection and ease of use. The design focuses on durability, accessibility, and compatibility with standard 3D printing setups.
 
