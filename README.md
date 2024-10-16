@@ -3,6 +3,12 @@
 
 This repository contains the 3D-printable enclosure designed for the [Air Quality Station project](https://github.com/gokulnathanperumal/AirQualityStation). The enclosure houses the **Sensirion SEN55** sensor and the **Xiao ESP32C3** microcontroller, providing protection and ease of use. The design focuses on durability, accessibility, and compatibility with standard 3D printing setups.
 
+<img src="https://github.com/user-attachments/assets/45e50dbf-6d24-4a51-ac4e-8f27af87081c" width="18%">
+<img src="https://github.com/user-attachments/assets/dfeb1623-2116-4014-959b-a8c05733dc99" width="18%">
+<img src="https://github.com/user-attachments/assets/78170e47-b91a-4f1f-aee3-6911361f000b" width="18%">
+<img src="https://github.com/user-attachments/assets/a31fd2d4-ce87-424d-b51e-5906bd83dc73" width="18%">
+<img src="https://github.com/user-attachments/assets/c5af5a89-84d8-421e-b9e6-5b30256c480e" width="18%">
+
 ## Features
 
 - **Designed for Sensirion SEN55 and Xiao ESP32C3**: Ensures a secure fit for these specific components.
